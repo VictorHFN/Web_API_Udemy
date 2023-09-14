@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XHJxrzTHhpQ4INsAZpA3OXDOTrnccVyZxTFaidttsWo86sbJG4sdGpzCvP7VQlTJ/dTjjCSPU6sCziEjtUtaIg==",
+  "dgSpecHash": "LcJoe9IboEl1UErwaY8ZYDE62MZlTBbmnT2ZNbEvWhT5UQ7A6vDA0zyaA0MV1vBbifzw8J1XTTYV77qCszfVkQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vhfn2\\source\\repos\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
+  "projectFilePath": "C:\\Users\\vhfn2\\source\\repos\\APICatalogo\\apicatalogo\\APICatalogo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vhfn2\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\vhfn2\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.11\\microsoft.entityframeworkcore.7.0.11.nupkg.sha512",
